@@ -159,13 +159,3 @@ To analyze **customer behavior, segmentation, and engagement trends**.
 * Deploy dashboard on Tableau Server / Public
 * Add alerts for KPI thresholds
 
----
-
-## 👨‍💻 Author
-
-**Siddhant Ingole**
-* Data Analyst | Full Stack Developer | AI Enthusiast
-
-
-
-Just tell me 👍
